@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LightControl</string>
+    <string name="barheight">50</string>
+    <string name="barTitle">LightControl</string>
+    <string name="drawer_close">close</string>
+    <string name="drawer_open">open</string>
+</resources>
